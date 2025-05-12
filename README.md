@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Başlangıç Seviye PHP ile Backend Web Development Patikası Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![alt text](<Screenshot 2025-05-12 at 19.14.15.png>)
+<img width="751" alt="Screenshot 2025-05-12 at 19 14 15" src="https://github.com/user-attachments/assets/b904bb5a-d11d-4cd9-ad15-1a6e0c899567" />
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
